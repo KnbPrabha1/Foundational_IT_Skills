@@ -1,0 +1,76 @@
+# 🖥️ Computer Basics – For Absolute Beginners
+
+Before learning cybersecurity, it's important to understand what a computer is and how it works. Let’s start with the basics.
+
+---
+
+## 💡 What is a Computer?
+
+A **computer** is an electronic device that takes input (something you give it), processes it, and gives you an output (a result). 
+It's used to do many tasks like browsing the internet, watching videos, writing documents, playing games, and more.
+
+---
+
+## 🔧 Main Parts of a Computer
+
+Here are the basic parts that make up most computers:
+
+### 1. **Monitor**
+- It's the screen where you see everything.
+- Shows text, images, videos, etc.
+
+### 2. **Keyboard**
+- Used to type letters, numbers, and commands.
+
+### 3. **Mouse**
+- Helps you move around and click things on the screen.
+
+### 4. **CPU (Central Processing Unit)**
+- The brain of the computer.
+- It processes everything and controls what the computer does.
+
+### 5. **RAM (Memory)**
+- Temporary storage for running programs.
+- The more RAM, the faster your computer can do things.
+
+### 6. **Hard Drive / SSD (Storage)**
+- Where your files, programs, and the operating system are stored.
+- SSDs are faster than hard drives.
+
+### 7. **Motherboard**
+- A big board that connects all the parts of the computer together.
+
+### 8. **Power Supply**
+- Provides electricity to the computer.
+
+---
+
+## 🧠 What Does a Computer Do?
+
+| Action         | Example                         |
+|----------------|----------------------------------|
+| Input          | You type something using keyboard |
+| Processing     | CPU understands what you typed    |
+| Storage        | Saves your file on hard drive     |
+| Output         | Shows result on the monitor       |
+
+---
+
+## 🔒 Why is This Important in Cybersecurity?
+
+Cybersecurity is about protecting computers and data. If you don’t understand how a computer works, you won’t know what you’re trying to protect.
+
+For example:
+- If you don’t know what RAM is, you won’t understand **how malware hides** in memory.
+- If you don’t know what storage is, you won’t know **where to look for stolen files**.
+
+---
+
+## ✅ Summary
+
+- A computer is a machine that takes input, processes it, and gives output.
+-It has many parts — like monitor, keyboard, CPU, RAM, and storage.
+- Knowing how a computer works is the **first step** in learning cybersecurity.
+
+
+
